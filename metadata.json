@@ -1,0 +1,5 @@
+{
+  "name": "LAN Sentry",
+  "description": "Self-hosted LAN scanner dashboard with customizable nicknames, connection alerts, mDNS/ARP simulation, and notification webhook integration.",
+  "requestFramePermissions": []
+}
